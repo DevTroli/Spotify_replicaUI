@@ -5,6 +5,7 @@ export const Container = tw.div`
   items-center
   gap-3
   m-4
+  mb-2
 `
 
 export const Img = tw.img`

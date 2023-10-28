@@ -6,6 +6,7 @@ export const Container = tw.div`
   items-center
   gap-2
   m-4
+  mb-2
 `
 
 export const Buttons = tw.div`

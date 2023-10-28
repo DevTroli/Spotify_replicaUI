@@ -5,6 +5,7 @@ export const AddonButtons = tw.div`
   items-center
   gap-4
   m-4
+  mb-2
 `
 
 export const Player = tw.div`
