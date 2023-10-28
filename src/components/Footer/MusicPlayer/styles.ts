@@ -5,6 +5,7 @@ export const Container = tw.div`
   flex-col
   items-center
   gap-2
+  m-4
 `
 
 export const Buttons = tw.div`

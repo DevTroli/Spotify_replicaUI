@@ -1,9 +1,10 @@
 import tw from 'tailwind-styled-components'
 
-export const AddOnButtons = tw.div`
+export const AddonButtons = tw.div`
   flex
   items-center
   gap-4
+  m-4
 `
 
 export const Player = tw.div`

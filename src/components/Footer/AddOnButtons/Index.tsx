@@ -2,7 +2,7 @@ import { PlaySquare, Mic2, ListVideo, Volume2, Maximize2 } from 'lucide-react'
 import React from 'react'
 import {
   Player,
-  AddOnButtons as AddonButtons,
+  AddonButtons,
   Slider,
   SliderTime
 } from './styles'

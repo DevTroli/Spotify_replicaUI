@@ -1,7 +1,7 @@
 import { MusicPlayer } from './MusicPlayer/Index'
 import { CurrentMusic } from './CurrentMusic/Index'
 import { AddOnButtons } from './AddOnButtons/Index'
-import { Footer as FooterPlayer } from '../../styles/Containers'
+import { FooterPlayer } from '../../styles/Containers'
 import React from 'react'
 
 export function Footer() {

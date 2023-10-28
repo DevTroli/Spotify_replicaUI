@@ -4,6 +4,7 @@ export const Container = tw.div`
   flex
   items-center
   gap-3
+  m-4
 `
 
 export const Img = tw.img`

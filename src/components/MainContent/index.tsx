@@ -8,9 +8,9 @@ import React from 'react'
 import { Content, Greeting } from '../../styles/Containers'
 export function MainContent() {
   return (
-    <Content>
+    <Content className='bg-gradient-to-b from-indigo-900 to-zinc-800'>
       <NavButtons />
-      <Greeting>Good Morning</Greeting>
+      <Greeting className='text-3xl'>Good Morning</Greeting>
       <YourFavorites />
       <RecentlyPlayed />
     </Content>

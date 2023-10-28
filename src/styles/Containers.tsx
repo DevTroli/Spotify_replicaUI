@@ -11,11 +11,10 @@ export const MainContainer = tw.div`
   flex-1
 `
 
-export const Footer = tw.footer`
+export const FooterPlayer = tw.footer`
   bg-zinc-950
   shadow
   p-5
-  pb-1
   flex
   items-center
   justify-between
@@ -39,11 +38,9 @@ export const Content = tw.main`
   m-2
   mb-0
   ml-0
-  bg-gradient-to-b from-indigo-900 to-zinc-800
 `
 
 export const Greeting = tw.h1`
-  text-3xl
   font-bold
   mt-4
 `
