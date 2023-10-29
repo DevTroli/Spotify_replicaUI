@@ -1,11 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Introdução
 
-First, run the development server:
+Primeiro Baixe as dependencias do projeto
 
 ```bash
-npm run dev
+npm install
+# or
+yarn
+# or
+```
+
+Depois, execute o servidor Local:
+
+```bash
+npm dev
 # or
 yarn dev
 # or
@@ -14,23 +22,17 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Começe a editar a página modificando `app/page.tsx`. A página é atualizada automaticamente à medida que o arquivo é editado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias
 
-## Learn More
+- Next.JS
+- Tailwind
+- Typescript
+- Tailwind with styled-components
 
-To learn more about Next.js, take a look at the following resources:
+## Objetivo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Praticar os conceitos do tailwind com o nextjs usando a interface inicial do spotify como referencia para a minha pratica do framework css além de usar a estilização de componentes em css in js. ( nesse caso css in ts )
